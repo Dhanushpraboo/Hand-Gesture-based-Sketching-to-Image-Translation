@@ -17,6 +17,7 @@ Mrs. S.Selvanayaki, M.Tech., Assistant Professor, Dept of Artificial Intelligenc
 The report introduces a novel system for translating hand gesture-based sketches into high-quality images. This system leverages CVZone's HandTrackingModule for precise gesture recognition and Stable Diffusion for advanced image generation. The framework aims to provide an intuitive, touchless interface for artists and designers, enabling the creation of digital art through natural hand gestures. The system comprises three main components: real-time gesture recognition, digital sketch generation, and image synthesis. Implemented using Python, TensorFlow/PyTorch, and OpenCV, the system ensures robust performance and accurate outputs. The evaluation focuses on gesture recognition accuracy, image quality, and user satisfaction. The framework has potential applications in digital art, virtual design, and accessibility tools.
 
 ## Key Technologies
+~~~
 Gesture Recognition
 CVZone HandTrackingModule
 Stable Diffusion
@@ -24,6 +25,7 @@ AI Image Synthesis
 Digital Art
 Human-Computer Interaction
 Touchless Interaction.
+~~~
 ## System Components
 Gesture Recognition Module: Uses MediaPipe to detect and track hand gestures in real-time.
 Sketch Generation Interface: Maps hand gestures to sketching actions on a digital canvas.
