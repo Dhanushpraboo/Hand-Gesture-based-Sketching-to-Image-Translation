@@ -56,6 +56,7 @@ Identifies potential improvements, including multi-hand gesture recognition, exp
 
 ## Output
 
+![Screenshot 2024-12-22 145316](https://github.com/user-attachments/assets/d63ba0ae-eed6-41f2-83f5-9a1961b93934)
 
 
 ## References
